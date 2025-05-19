@@ -20,7 +20,7 @@
     "title": "Dragon Ball Legends",
     "entries": [
       {
-        "title": "The Omnificence Crystal ",
+        "title": "The Omnificence Crystal",
         "description": "This crystal was formed once Zahha united a blue crystal and a red crystal into one after they were inserted into Shallot and Giblet respectively so they can be powered up.",
         "tags": ["Cystal", "Prototype", "dragon balls"],
         "category": "Item"
@@ -31,12 +31,13 @@
         "tags": ["deceptive", "Swordsmen", "evil"],
         "category": "Character"
       },
-       {
+      {
         "title": "Shallet",
-        "description": "The fusion of the main character Shallot and Giblet",
+        "description": "The fusion of the main character Shallot and Giblet.",
         "tags": ["Fusion", "Super Saiyan God", "ancient saiyan"],
         "category": "Character"
       }
     ]
   }
 ]
+
