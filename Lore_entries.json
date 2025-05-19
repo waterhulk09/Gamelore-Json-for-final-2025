@@ -1,35 +1,42 @@
 [
   {
-    "title": "Dark Souls",
+    "title": "Dragon Ball Xenoverse 1",
     "entries": [
       {
-        "title": "The Abyss",
-        "description": "A dark, infinite void that corrupts everything it touches.",
-        "tags": ["dark", "corruption", "primordial"],
+        "title": "Toki Toki city",
+        "description": "Central hub for all Time Patrollers. Protected by the Supreme Kai of Time and the bird-like deity Toki Toki.",
+        "tags": ["hacking", "2012", "April Fools"],
         "category": "Location"
       },
       {
-        "title": "Artorias the Abysswalker",
-        "description": "A knight who dared face the Abyss and lost.",
-        "tags": ["knight", "tragic", "hero"],
+        "title": "Trunks (Xeno)",
+        "description": "The saiyan from the future that was recruited by the Supreme Kai of Time.",
+        "tags": ["Saiyan", "Time Patroller", "hero"],
         "category": "Character"
       }
     ]
   },
   {
-    "title": "Hollow Knight",
+    "title": "Dragon Ball Legends",
     "entries": [
       {
-        "title": "The Pale King",
-        "description": "The ruler of Hallownest, seeking to contain the Infection.",
-        "tags": ["king", "monarch", "sacrifice"],
-        "category": "Character"
+        "title": "The Omnificence Crystal ",
+        "description": "This crystal was formed once Zahha united a blue crystal and a red crystal into one after they were inserted into Shallot and Giblet respectively so they can be powered up.",
+        "tags": ["Cystal", "Prototype", "dragon balls"],
+        "category": "Item"
       },
       {
-        "title": "The White Palace",
-        "description": "A shimmering palace of divine architecture, lost to memory.",
-        "tags": ["palace", "dream", "royal"],
-        "category": "Location"
+        "title": "Zaha",
+        "description": "Zahha is a mysterious magical swordsman who initially appears as a supportive figure to the protagonist, Shallot. He aids in battles and offers guidance, 
+        but as the story unfolds, his true intentions and identity as the Mastermind are revealed.",
+        "tags": ["deceptive", "Swordsmen", "evil"],
+        "category": "Character"
+      },
+       {
+        "title": "Shallet",
+        "description": "The fusion of the main character Shallot and Giblet",
+        "tags": ["Fusion", "Super Saiyan God", "ancient saiyan"],
+        "category": "Character"
       }
     ]
   }
