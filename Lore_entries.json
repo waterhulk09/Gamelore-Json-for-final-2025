@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Dark Souls",
+    "entries": [
+      {
+        "title": "The Abyss",
+        "description": "A dark, infinite void that corrupts everything it touches.",
+        "tags": ["dark", "corruption", "primordial"],
+        "category": "Location"
+      },
+      {
+        "title": "Artorias the Abysswalker",
+        "description": "A knight who dared face the Abyss and lost.",
+        "tags": ["knight", "tragic", "hero"],
+        "category": "Character"
+      }
+    ]
+  },
+  {
+    "title": "Hollow Knight",
+    "entries": [
+      {
+        "title": "The Pale King",
+        "description": "The ruler of Hallownest, seeking to contain the Infection.",
+        "tags": ["king", "monarch", "sacrifice"],
+        "category": "Character"
+      },
+      {
+        "title": "The White Palace",
+        "description": "A shimmering palace of divine architecture, lost to memory.",
+        "tags": ["palace", "dream", "royal"],
+        "category": "Location"
+      }
+    ]
+  }
+]
